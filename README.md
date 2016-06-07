@@ -1,0 +1,1 @@
+# sns-lambda-notifier-golang
